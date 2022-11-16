@@ -1,0 +1,34 @@
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\DiccionariosLLneadoV2\bin\Debug\net6.0-windows\DiccionariosLLneadoV2.exe
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\DiccionariosLLneadoV2\bin\Debug\net6.0-windows\DiccionariosLLneadoV2.deps.json
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\DiccionariosLLneadoV2\bin\Debug\net6.0-windows\DiccionariosLLneadoV2.runtimeconfig.json
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\DiccionariosLLneadoV2\bin\Debug\net6.0-windows\DiccionariosLLneadoV2.dll
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\DiccionariosLLneadoV2\bin\Debug\net6.0-windows\DiccionariosLLneadoV2.pdb
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.csproj.AssemblyReference.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.Form1.resources
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.csproj.GenerateResource.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.AssemblyInfoInputs.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.AssemblyInfo.cs
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.csproj.CoreCompileInputs.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.dll
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\refint\DiccionariosLLneadoV2.dll
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.pdb
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.genruntimeconfig.cache
+C:\Users\jon_r\Documents\Copia de seguridad USB\Cursos Programacion Individuales\C# Mios\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\ref\DiccionariosLLneadoV2.dll
+E:\Codigos\Personales C#\DiccionariosLLneadoV2\bin\Debug\net6.0-windows\DiccionariosLLneadoV2.exe
+E:\Codigos\Personales C#\DiccionariosLLneadoV2\bin\Debug\net6.0-windows\DiccionariosLLneadoV2.deps.json
+E:\Codigos\Personales C#\DiccionariosLLneadoV2\bin\Debug\net6.0-windows\DiccionariosLLneadoV2.runtimeconfig.json
+E:\Codigos\Personales C#\DiccionariosLLneadoV2\bin\Debug\net6.0-windows\DiccionariosLLneadoV2.dll
+E:\Codigos\Personales C#\DiccionariosLLneadoV2\bin\Debug\net6.0-windows\DiccionariosLLneadoV2.pdb
+E:\Codigos\Personales C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.csproj.AssemblyReference.cache
+E:\Codigos\Personales C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.Form1.resources
+E:\Codigos\Personales C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.csproj.GenerateResource.cache
+E:\Codigos\Personales C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codigos\Personales C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.AssemblyInfoInputs.cache
+E:\Codigos\Personales C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.AssemblyInfo.cs
+E:\Codigos\Personales C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.csproj.CoreCompileInputs.cache
+E:\Codigos\Personales C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.dll
+E:\Codigos\Personales C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\refint\DiccionariosLLneadoV2.dll
+E:\Codigos\Personales C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.pdb
+E:\Codigos\Personales C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.genruntimeconfig.cache
+E:\Codigos\Personales C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\ref\DiccionariosLLneadoV2.dll
