@@ -32,3 +32,21 @@ E:\Codigos\Personales C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\refint\D
 E:\Codigos\Personales C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.pdb
 E:\Codigos\Personales C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.genruntimeconfig.cache
 E:\Codigos\Personales C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\ref\DiccionariosLLneadoV2.dll
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\bin\Debug\net6.0-windows\DiccionariosLLneadoV2.exe
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\bin\Debug\net6.0-windows\DiccionariosLLneadoV2.deps.json
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\bin\Debug\net6.0-windows\DiccionariosLLneadoV2.runtimeconfig.json
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\bin\Debug\net6.0-windows\DiccionariosLLneadoV2.dll
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\bin\Debug\net6.0-windows\DiccionariosLLneadoV2.pdb
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.csproj.AssemblyReference.cache
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.Form1.resources
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.csproj.GenerateResource.cache
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.AssemblyInfoInputs.cache
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.AssemblyInfo.cs
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.csproj.CoreCompileInputs.cache
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.dll
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\refint\DiccionariosLLneadoV2.dll
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.pdb
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.genruntimeconfig.cache
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\ref\DiccionariosLLneadoV2.dll
+E:\Codigos\06_Personales_C#\DiccionariosLLneadoV2\obj\Debug\net6.0-windows\DiccionariosLLneadoV2.Properties.Resources.resources

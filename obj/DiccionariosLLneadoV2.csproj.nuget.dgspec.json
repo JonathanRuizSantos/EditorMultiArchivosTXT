@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Codigos\\Personales C#\\DiccionariosLLneadoV2\\DiccionariosLLneadoV2.csproj": {}
+    "E:\\Codigos\\06_Personales_C#\\DiccionariosLLneadoV2\\DiccionariosLLneadoV2.csproj": {}
   },
   "projects": {
-    "E:\\Codigos\\Personales C#\\DiccionariosLLneadoV2\\DiccionariosLLneadoV2.csproj": {
+    "E:\\Codigos\\06_Personales_C#\\DiccionariosLLneadoV2\\DiccionariosLLneadoV2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Codigos\\Personales C#\\DiccionariosLLneadoV2\\DiccionariosLLneadoV2.csproj",
+        "projectUniqueName": "E:\\Codigos\\06_Personales_C#\\DiccionariosLLneadoV2\\DiccionariosLLneadoV2.csproj",
         "projectName": "DiccionariosLLneadoV2",
-        "projectPath": "E:\\Codigos\\Personales C#\\DiccionariosLLneadoV2\\DiccionariosLLneadoV2.csproj",
+        "projectPath": "E:\\Codigos\\06_Personales_C#\\DiccionariosLLneadoV2\\DiccionariosLLneadoV2.csproj",
         "packagesPath": "C:\\Users\\jon_r\\.nuget\\packages\\",
-        "outputPath": "E:\\Codigos\\Personales C#\\DiccionariosLLneadoV2\\obj\\",
+        "outputPath": "E:\\Codigos\\06_Personales_C#\\DiccionariosLLneadoV2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

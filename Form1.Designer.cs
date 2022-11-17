@@ -184,32 +184,38 @@
             // 
             // btAdd
             // 
+            this.btAdd.BackColor = System.Drawing.Color.Gray;
+            this.btAdd.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btAdd.Location = new System.Drawing.Point(372, 38);
             this.btAdd.Name = "btAdd";
             this.btAdd.Size = new System.Drawing.Size(94, 29);
             this.btAdd.TabIndex = 12;
             this.btAdd.Text = "Add";
-            this.btAdd.UseVisualStyleBackColor = true;
+            this.btAdd.UseVisualStyleBackColor = false;
             this.btAdd.Click += new System.EventHandler(this.btAdd_Click);
             // 
             // btShow
             // 
+            this.btShow.BackColor = System.Drawing.Color.Gray;
+            this.btShow.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btShow.Location = new System.Drawing.Point(372, 75);
             this.btShow.Name = "btShow";
             this.btShow.Size = new System.Drawing.Size(94, 29);
             this.btShow.TabIndex = 13;
             this.btShow.Text = "Show";
-            this.btShow.UseVisualStyleBackColor = true;
+            this.btShow.UseVisualStyleBackColor = false;
             this.btShow.Click += new System.EventHandler(this.btShow_Click);
             // 
             // btClear
             // 
+            this.btClear.BackColor = System.Drawing.Color.Gray;
+            this.btClear.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btClear.Location = new System.Drawing.Point(372, 114);
             this.btClear.Name = "btClear";
             this.btClear.Size = new System.Drawing.Size(94, 29);
             this.btClear.TabIndex = 14;
             this.btClear.Text = "Clear";
-            this.btClear.UseVisualStyleBackColor = true;
+            this.btClear.UseVisualStyleBackColor = false;
             this.btClear.Click += new System.EventHandler(this.btClear_Click);
             // 
             // richTextBoxWordList
@@ -235,12 +241,14 @@
             // 
             // btRun
             // 
+            this.btRun.BackColor = System.Drawing.Color.Gray;
+            this.btRun.Font = new System.Drawing.Font("Segoe UI Semibold", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.btRun.Location = new System.Drawing.Point(493, 38);
             this.btRun.Name = "btRun";
             this.btRun.Size = new System.Drawing.Size(94, 29);
             this.btRun.TabIndex = 17;
             this.btRun.Text = "Run";
-            this.btRun.UseVisualStyleBackColor = true;
+            this.btRun.UseVisualStyleBackColor = false;
             this.btRun.Click += new System.EventHandler(this.btRun_Click);
             // 
             // richTextBoxDictionary
@@ -288,7 +296,7 @@
             // 
             // lbRepeticiones
             // 
-            this.lbRepeticiones.BackColor = System.Drawing.Color.LightCyan;
+            this.lbRepeticiones.BackColor = System.Drawing.Color.White;
             this.lbRepeticiones.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
             this.lbRepeticiones.FormattingEnabled = true;
             this.lbRepeticiones.ItemHeight = 23;
@@ -301,7 +309,7 @@
             // 
             // lbmonitorWord
             // 
-            this.lbmonitorWord.BackColor = System.Drawing.Color.LightCyan;
+            this.lbmonitorWord.BackColor = System.Drawing.Color.White;
             this.lbmonitorWord.Font = new System.Drawing.Font("Segoe UI", 10.2F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
             this.lbmonitorWord.FormattingEnabled = true;
             this.lbmonitorWord.ItemHeight = 23;
@@ -373,7 +381,8 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(192)))));
+            this.BackColor = System.Drawing.Color.Gainsboro;
+            this.BackgroundImage = global::DiccionariosLLneadoV2.Properties.Resources.love_fpg;
             this.ClientSize = new System.Drawing.Size(1390, 609);
             this.Controls.Add(this.c4);
             this.Controls.Add(this.c3);
@@ -406,7 +415,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Editor de archivos de texto";
             this.ResumeLayout(false);
             this.PerformLayout();
 
